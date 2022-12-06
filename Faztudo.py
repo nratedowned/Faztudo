@@ -6,7 +6,7 @@ import json
 st.title("Faz Tudo Por ti Do André")
 
 
-openai.api_key = "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"
+
 
 prompt = st.text_input("O que queres fazer:")
 
